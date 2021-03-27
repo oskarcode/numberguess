@@ -25,7 +25,7 @@ const compareGuesses = (hguess, cguess, tguess) => {
 
 // update the score according to winners
 const updateScore = winner => {
-    if (winner = 'human') {
+    if (winner == 'human') {
         humanScore++;
     }
     else {

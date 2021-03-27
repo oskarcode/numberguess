@@ -4,7 +4,6 @@
   }
   
   
-  
   body {
     margin: 0 auto;
     padding: 3px;
@@ -190,6 +189,12 @@
     font-size: 14px;
   }
   
+  .instruction-rule{
+    width: 180px;
+    padding: 2px;
+    text-align: center;
+    background-color: crimson;
+  }
   
   .winning-text, .winning-text[disabled] {
     color: #ec3636;
